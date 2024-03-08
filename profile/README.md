@@ -1,5 +1,5 @@
 <p align="center">
 
-![logo](./logo_FT2z7.jpeg)
+![logo](profile/logo_FT2z7.jpeg)
 
 </p>
