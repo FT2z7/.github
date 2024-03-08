@@ -1,6 +1,8 @@
 <p align="center">
 
+<a href="https://github.com/new?template_name=FT2zXcXvX&template_owner=FT2z7">
 <img align="center" src="https://github.com/FT2z7/.github/blob/master/profile/logo_FT2z7.jpeg?raw=true"></img>
+</a>
 
 </p>
 
